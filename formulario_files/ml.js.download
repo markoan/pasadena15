@@ -1,7 +1,0 @@
-function em_click(){
-location.href="mailto:info@pasadena15.com";
-return true; }
-function ml_write(){
-document.write('info@pasadena15.com');}
-function ml_hp_write(isrc, iwidth, iheight){
-document.write('<img title="info@pasadena15.com" '+isrc+' '+iwidth+' '+iheight+' border=0>' );}
