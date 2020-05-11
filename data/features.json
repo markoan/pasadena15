@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Civil",
+    "description": "",
+    "image": "images/features/civil.svg"
+  },
+  {
+    "title": "Penal",
+    "description": "",
+    "image": "images/features/penal.svg"
+  },
+  {
+    "title": "Laboral",
+    "description": "",
+    "image": "images/features/laboral.svg"
+  },
+  {
+    "title": "Familiar",
+    "description": "",
+    "image": "images/features/familiar.svg"
+  },
+  {
+    "title": "Migratorio",
+    "description": "",
+    "image": "images/features/migratorio.svg"
+  }
+]
